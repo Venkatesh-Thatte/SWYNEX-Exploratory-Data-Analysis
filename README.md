@@ -4,13 +4,11 @@ Exploratory Data Analysis using Excel
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned sales dataset using Microsoft Excel.
 The objective is to calculate important statistics, identify trends and patterns, detect anomalies, and present meaningful business insights through data visualization.
 
-🛠️ Tools Used
-- Microsoft Excel
+🛠️ Tools Used- Microsoft Excel
 - Excel Charts
 - Data Analysis & Aggregation
   
-📊 Analysis Performed
-The analysis covers:
+📊 Analysis PerformedThe analysis covers:
 - Total Orders
 - Total Units Sold
 - Total Revenue
@@ -23,15 +21,13 @@ The analysis covers:
 - Revenue by Sales Representative
 - Monthly Revenue Trends
   
-📈 Visualizations
-The project includes the following charts:
+📈 VisualizationsThe project includes the following charts:
 1. Revenue by Product
 2. Revenue by City
 3. Monthly Revenue Trend
 4. Revenue by Category
 
-🔍 Key Insights
-1. The dataset contains 44 orders and 124 units sold, generating total revenue of 1,666,500.
+🔍 Key Insights1. The dataset contains 44 orders and 124 units sold, generating total revenue of 1,666,500.
 2. Laptops generated the highest product revenue at 780,000.
 3. Hyderabad generated the highest city-level revenue.
 4. The highest monthly revenue was identified through the monthly trend analysis.
