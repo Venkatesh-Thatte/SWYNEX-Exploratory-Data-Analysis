@@ -27,7 +27,8 @@ The objective is to calculate important statistics, identify trends and patterns
 3. Monthly Revenue Trend
 4. Revenue by Category
 
-🔍 Key Insights1. The dataset contains 44 orders and 124 units sold, generating total revenue of 1,666,500.
+🔍 Key Insights
+1. The dataset contains 44 orders and 124 units sold, generating total revenue of 1,666,500.
 2. Laptops generated the highest product revenue at 780,000.
 3. Hyderabad generated the highest city-level revenue.
 4. The highest monthly revenue was identified through the monthly trend analysis.
