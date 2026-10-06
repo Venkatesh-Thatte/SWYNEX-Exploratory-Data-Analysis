@@ -1,4 +1,5 @@
 Exploratory Data Analysis using Excel
+
 📌 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned sales dataset using Microsoft Excel.
 The objective is to calculate important statistics, identify trends and patterns, detect anomalies, and present meaningful business insights through data visualization.
